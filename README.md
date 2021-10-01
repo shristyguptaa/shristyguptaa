@@ -1,6 +1,6 @@
 <h1 align="center">Hello There 🤙,Shristy Gupta </h1>
 
-<h3 align="center"> Learning C </h3>
+<h3 align="center"> Learning HTML </h3>
 
 
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
@@ -8,7 +8,7 @@
 
 <p align="center"> Hi, I am a second year student </p>
 
-<h3> Skills: C,C++ and learning more</h3>
+<h3> Skills: C,C++,HTML and learning more</h3>
 
 <h3> College: SRIST </h3> <br />
 
@@ -16,7 +16,7 @@
 
 <h2 align="left"> What I am Doing? </h2>
 
-<h3>🚧 I’m currently working on C++</h3>
+<h3>🚧 I’m currently working on HTML</h3>
 
 <h3>📑 I'm Currently Learning Programming languages`</h3>
 
