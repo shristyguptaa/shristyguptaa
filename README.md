@@ -8,7 +8,7 @@
 
 <p align="center"> Hi, I am a second year student </p>
 
-<h3> Skills: C,C++,HTML and learning more</h3>
+<h3> Skills: C,C++,HTML,javascript,python and learning more</h3>
 
 <h3> College: SRIST </h3> <br />
 
@@ -16,7 +16,7 @@
 
 <h2 align="left"> What I am Doing? </h2>
 
-<h3>🚧 I’m currently working on HTML</h3>
+<h3>🚧 I’m currently working on python</h3>
 
 <h3>📑 I'm Currently Learning Programming languages`</h3>
 
