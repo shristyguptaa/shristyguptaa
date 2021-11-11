@@ -1,6 +1,6 @@
 <h1 align="center">Hello There 🤙,Shristy Gupta </h1>
 
-<h3 align="center"> Learning HTML </h3>
+<h3 align="center"> Learning python </h3>
 
 
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
@@ -31,7 +31,7 @@
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=shristyguptaa&show_icons=true&locale=en" alt="shristyguptaa" ></p><!-- - 👋 Hi, I’m @shristyguptaa
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on new projects 
 <!---
 shristyguptaa/shristyguptaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
